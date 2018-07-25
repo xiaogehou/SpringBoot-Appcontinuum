@@ -1,4 +1,4 @@
-package com.spring.boot.appcontinuum.appcontinuum;
+package com.spring.boot.appcontinuum.applicationserverone;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
