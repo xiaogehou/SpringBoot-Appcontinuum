@@ -14,6 +14,11 @@
 	<name>appcontinuum :: application-server-one</name>
 
 	<dependencies>
+		<dependency>
+			<groupId>${project.parent.groupId}</groupId>
+			<artifactId>com.spring.boot.appcontinuum.web-services-one</artifactId>
+			<version>${project.parent.version}</version>
+		</dependency>
 
 	</dependencies>
 
